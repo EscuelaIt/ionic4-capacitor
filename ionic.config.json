@@ -1,5 +1,7 @@
 {
   "name": "ionic4-capacitor",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
